@@ -1,4 +1,3 @@
-```markdown
 # Self-Healing Infrastructure with Prometheus, Alertmanager, and Ansible
 
 ## Project Overview
